@@ -1,5 +1,5 @@
 import openai
-openai.api_key = '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'
+openai.api_key = ''
 
 def translate(text, type):
     if type == 'eng2chn':
