@@ -34,27 +34,33 @@
 
 # 项目截图
 
-
-![1686139978476](https://github.com/xxxqin/doc.AI/assets/49983198/2cc3ae67-79ce-44a0-8b6b-abee73a501c9)
+![20230614233342](https://github.com/xxxqin/doc.AI/assets/49983198/5099e205-db84-49ce-9717-9ba3e128d03e)
 
 
 <br />
 
-![1686139992516](https://github.com/xxxqin/doc.AI/assets/49983198/e507bab4-a6b5-450d-812f-3e8847e7819e)
+![20230614233355](https://github.com/xxxqin/doc.AI/assets/49983198/5e456719-10a8-401f-bb78-ddb8036a346a)
+
+
+<br />
+
+![20230614233359](https://github.com/xxxqin/doc.AI/assets/49983198/f309d314-e188-4352-80e6-9388fc9dc567)
+
+
+
+<br />
+
+![20230614233403](https://github.com/xxxqin/doc.AI/assets/49983198/45f66af8-ae10-4fc0-8753-318c26ef190b)
+
+
 
 <br />
 
 
-![1686140013166](https://github.com/xxxqin/doc.AI/assets/49983198/a92064a3-b92a-4529-96ab-45545c903de7)
+![20230614233406](https://github.com/xxxqin/doc.AI/assets/49983198/2a3a349d-416a-4bd4-bd1a-e4a95290c3a3)
 
 <br />
 
-
-![1686140077470](https://github.com/xxxqin/doc.AI/assets/49983198/ffbf735a-c74f-4e3d-acc7-98ead0110668)
-
-<br />
-
-![1686139963400](https://github.com/xxxqin/doc.AI/assets/49983198/f232e3a6-0b2b-47e8-967a-6cd9902c9a6a)
-
+![20230614233622](https://github.com/xxxqin/doc.AI/assets/49983198/9ce74ee8-906a-4a2d-ab3b-7563ca15bf6f)
 
 
